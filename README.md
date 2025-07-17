@@ -2,7 +2,6 @@
 
 WPGraphQL is a free, open-source WordPress plugin that turns your WordPress site into a GraphQL API.
 
-![WPGraphQL Banner](.github/wp-graphql-banner.png)
 
 ## ⚡️ What is GraphQL?
 
